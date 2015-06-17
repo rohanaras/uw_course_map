@@ -1,2 +1,2 @@
-# uU Course Map
+# UW Course Map
  
