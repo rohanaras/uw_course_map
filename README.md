@@ -1,2 +1,2 @@
-# uw_course_map
+# uU Course Map
  
