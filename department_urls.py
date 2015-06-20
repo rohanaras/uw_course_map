@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-import urllib.request
+import urllib
 
 # debug logger: terminal can't handle some characters
 log = open('log.txt', 'w')
@@ -9,7 +9,7 @@ urls = open('department_urls.txt', 'w')
 
 # turn webpage into beautiful soup object
 def url_to_beautifulsoup(url):
-	response = urllib.request.urlopen(url, data=None)
+	response = urllib.urlopen(url, data=None)
 	html = response.read()
 	soup = BeautifulSoup(html)
 	return soup
@@ -25,7 +25,7 @@ for college in colleges:
 	# gets the url for each department
 	for department in departments:
 		department_url = 'http://www.washington.edu/students/crscat/'
-		log.write(str(department.string) + '\n') # debug
+		#log.write(str(department.string) + '\n') # debug
 		if  department.string != None:
 			if '--' not in department.string:
 				try:
