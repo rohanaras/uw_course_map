@@ -1,0 +1,434 @@
+{
+	"Informatics":{
+		"INFO 101":{
+			"crosslist":"none",
+			"courseDescription":"Explores today's most popular social networks, gaming applications, and messaging applications. Examines technologies, social implications, and information structure. Focuses on logic, databases, networked delivery, identity, access privacy, ecommerce, organization, and retrieval.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 102":{
+			"crosslist":"none",
+			"courseDescription":"Explores the social construction of gender in relation to the history and contemporary development of information technologies. Considers the importance of diversity and difference in the design and construction of innovative information technology solutions. Challenges prevailing viewpoints about who can and does work in the information technology field. Offered: A.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 200":{
+			"crosslist":"none",
+			"courseDescription":"Information as an object of study, including theories, concepts, and principles of information, information seeking, cognitive processing, knowledge representation and restructuring, and their relationships to physical and intellectual access to information. Development of information systems for storage, organization, and retrieval. Experience in the application of theories, concepts, and principles.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 240":{
+			"crosslist":"none",
+			"courseDescription":"Covers database overview and history, the relational model, entity-relationship diagrams, database design and normalization, and Structured Query Language (SQL). Through labs, tests, and a project, students develop both theoretical and practical knowledge of relational database systems.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 245":{
+			"crosslist":"none",
+			"courseDescription":"Covers conceptual, logical, and physical database design: distributed databases; web technology and databases; advanced queries; and enterprise database administration. Through labs, tests, and a project, students develop both theoretical and practical knowledge of relational database systems. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 310":{
+			"crosslist":"none",
+			"courseDescription":"Provides a theoretical and practical introduction to information assurance and cyber-security (IAC). Includes methods and practices for securing information and information systems. Covers how vulnerabilities arise, recognizing evolving threats, and mitigating them. Explores the role of risk analysis, information privacy, accountability, and policy.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 312":{
+			"crosslist":"none",
+			"courseDescription":"Examines the risk inherent in use of technology, and how to manage risk to information, data, and technology in organizations. Topics include risk management frameworks, risk tolerance, key risk indicators, the legislative and regulatory environment, compliance, and new avenues of risk such as social media and mobile.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 320":{
+			"crosslist":"none",
+			"courseDescription":"Fundamentals of search including data acquisition and processing, index construction, query processing, ranking and display. Covers building a customized search service, search engine optimization, individual and social perspectives on search. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 330":{
+			"crosslist":"none",
+			"courseDescription":"Introduction to the methodologies utilized to create a user interface. Discusses user experience (UX), what makes an interface effective, and provides an overview of the tools and theories that are foundational to Information Architecture (IA). Discusses project scoping, wireframes, sitemaps, information design and formulating a UX strategy. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 340":{
+			"crosslist":"none",
+			"courseDescription":"Introduction to relational database management systems, focused on relational theory and the application of conceptual, logical, and physical database modeling. Key topics include the relational model, SQL, entity-relationship modeling, three-tier architectures, implementation of database applications, and related topics in information systems. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 341":{
+			"crosslist":"none",
+			"courseDescription":"Basic concepts of local and wide-area computer networking including an overview of services provided by networks, network topologies and hardware, packet switching, client/server architectures, network protocols, and network servers and applications. Also addresses management, security, authentication, and policy issues associated with distributed systems. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 343":{
+			"crosslist":"none",
+			"courseDescription":"Introduction to client-side web development including markup, programming, protocols, libraries, frameworks, and techniques for creating effective, usable, dynamic, and responsive applications that meet user needs. Includes an introduction to web development roles within organizations, content management systems, and other tools to build and manage websites and applications. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 344":{
+			"crosslist":"none",
+			"courseDescription":"Introduces server-side web development programming, services, tools, protocols, best practices and techniques for implementing data-driven and scalable web applications. Connects topics from human-centered design, information architecture, databases, data analytics and security to build a solution. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 360":{
+			"crosslist":"none",
+			"courseDescription":"Introduces design methods for identifying user needs, devising new design concepts, prototyping these concepts, and evaluating their utility and usability. Introduces the theory and practice of user-centered design. Examines methods for identifying users' needs, understanding users' behaviors, envisioning and prototyping new systems, and evaluating the usability of systems. Emphasis on incorporating people in the design process from initial field observations to summative usability testing.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 362":{
+			"crosslist":"none",
+			"courseDescription":"Build fluency in expressing information visually as diagrams, charts, maps, and icons Learn to solve design problems; give and receive critique; follow an iterative process of design refinement; and learn technical skills. Understand the nature of visual potential, visual design principles, and the impact of color and typography.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 370":{
+			"crosslist":"none",
+			"courseDescription":"Introduction to methods, concepts, and opportunities in data science. Topics include storage and scaling of large heterogeneous data, statistical inference, probability, experimental design, machine learning, network analysis, information visualization, and data ethics and policy. Assignments and projects are based on contemporary problems in data science from industry and research. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 380":{
+			"crosslist":"none",
+			"courseDescription":"Prepares students to participate in structured systems analysis and design efforts. Students learn how to analyze system context, behavior, and structure; identify stakeholders; gather requirements; and redesign systems to make them more beneficial to the organization.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 386":{
+			"crosslist":"none",
+			"courseDescription":"Examines professionalism, communication, teamwork, leadership, and interpersonal networking to strengthen students as they seek to excel professionally. Covers developing and presenting business cases and project plans, personal branding, conducting informational interviews, and effective written and oral communication.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 415":{
+			"crosslist":"none",
+			"courseDescription":"Explores emerging topics and unique subjects in information assurance and cybersecurity (IAC) not otherwise covered in the IAC curriculum. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 424":{
+			"crosslist":"none",
+			"courseDescription":"Examines the visualization of information: the effects of human perception, the aesthetics of information design, the mechanics of visual display, and the semiotics of iconography. Examples may include census, epidemiological, crime, earth satellite, and medical data in the contexts of special computer applications, user populations, and cultures.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 430":{
+			"crosslist":"none",
+			"courseDescription":"Advanced study of knowledge organization using classificatory structures and creation of metadata element sets for representation. Conceptual and practical foundations for creating systems for information organization and representation. The creation, application, and use of a variety of systems and techniques for information organization and representation. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 431":{
+			"crosslist":"none",
+			"courseDescription":"Explores principles of metadata schema and application profile design and implementation using XML technologies. Examines syntactic and semantic interoperability among diverse schemas and application profiles. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 432":{
+			"crosslist":"none",
+			"courseDescription":"Covers concepts and technologies supporting semantic interoperability among different metadata and ontologies including topic maps, RDF, schema, and Web Ontology Language (OWL). Includes advanced semantic modeling of complex data. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 433":{
+			"crosslist":"none",
+			"courseDescription":"Introduces key concepts in understanding the content lifecycle in context of an organization's web, mobile, and other communication channels. Provides knowledge of key theories and principles in information architecture and practical application of skills including user research; information collection and analysis; and information organization and presentation.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 444":{
+			"crosslist":"none",
+			"courseDescription":"Introduction to value-sensitive design (VSD), information system design that accounts for human values in a principled and comprehensive manner. Examination of existing systems from a VSD perspective. Explores VSD research methods including conceptual, technical, empirical investigations. Key values include accountability, autonomy, consent, privacy, property, trust, sustainability. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 445":{
+			"crosslist":"none",
+			"courseDescription":"Advanced perspectives on DBMS theory, architecture, and implementation. Conceptual, logical, physical modeling. Index structures, query optimization and performance tuning, relational algebra, transaction processing, and concurrency control. Operational databases, decision support systems, and data warehousing. Projects in database implementation and integration. Social implications of large distributed database systems. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 446":{
+			"crosslist":"none",
+			"courseDescription":"Focus on design, development, and evaluation of search engines. Theories and models in information retrieval for text and multimedia databases, web search engines, recommendation systems, and digital libraries. Topics include language issues, data-mining, machine learning, user-profiling, visualization, user interfaces, usability. Coursework involves analytical comparisons of search engines. Prerequisite INFO 340.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 447":{
+			"crosslist":"none",
+			"courseDescription":"Focuses on design and use of collaboration technologies to communicate, share information, and coordinate activity. Emphasis on behavioral and social aspects of adopting and using these technologies. Topics include the history of work in this and related fields, collaboration support for teams, organizations, and communities.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 450":{
+			"crosslist":"none",
+			"courseDescription":"Provides a framework for analyzing the ethical, legal, economic, and socio-political issues surrounding information, information technologies, and the information industries. Explores policy and ethical issues of information access and control including; intellectual property, file sharing, free speech, privacy, and national security.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 454":{
+			"crosslist":"none",
+			"courseDescription":"National and international information policy: public and private sector policy in terms of privacy, access, and exploitation; technology infrastructures and policies supporting the information industries; digital convergence and the emerging mega-industries.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 461":{
+			"crosslist":"none",
+			"courseDescription":"Introduces the theory and practice of cooperative user-centered software design, applying fundamental theories and techniques from social psychology, computer-supported collaborative work, and software engineering. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 463":{
+			"crosslist":"none",
+			"courseDescription":"Introduces input and interaction techniques for desktop, mobile, and other computing environments. Combines motor and perceptual psychology, interaction design, and input devices and software in the study of human-computer systems. Emphasizes using human performance models in inform the design of new interaction techniques. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 466":{
+			"crosslist":"none",
+			"courseDescription":"Introduction to immersive technologies and approaches to analyzing, designing, and building immersive worlds utilizing game theory, 3D interactive design, environments, and learning theory. Conducted exclusively in a virtual world environment through an hands-on and practical educational approach.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 467":{
+			"crosslist":"none",
+			"courseDescription":"Design, build, and curate immersive environments in a hands-on studio. Learn tools and techniques for contributing to immersive information environments such as virtual worlds, 3D simulations, and serious games, Utilize 3D information architecture to create personalized, community based environments for education, business and entertainment. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 470":{
+			"crosslist":"none",
+			"courseDescription":"Introduction to the research methods used in informatics for understanding technology, information, and human behavior. Methods incorporate those from design, engineering, and social science. Topics include science and invention, research contribution types, research through design, theory, ethics, and qualitative/quantitative empirical methods. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 474":{
+			"crosslist":"none",
+			"courseDescription":"Techniques and theory for visualizing, analyzing, and supporting interaction with structures data like numbers, text, and relations. Provides practical experience designing and building interactive visualizations for the web. Exposes students to cognitive science, statistics, and perceptual psychology. Uses empirical approach to design and evaluate visualizations. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 481":{
+			"crosslist":"none",
+			"courseDescription":"Introduces project management principles within the context of Informatics. Provides knowledge that managers need to implement information systems on time and within budget. Concentrates on methods and issues in organizing, planning, and controlling projects, and the use of computer-based project management tools.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 490":{
+			"crosslist":"none",
+			"courseDescription":"Student-driven team project including definition of an information problem, a method of investigation, creating of a project proposal, and completion of project deliverables. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 491":{
+			"crosslist":"none",
+			"courseDescription":"Includes design and implementation of a system or development of a research question intended to solve an information problem. Incorporates stakeholder and peer feedback, creation of project deliverables, presentation of the project in a public forum, and final assessment. ",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 495":{
+			"crosslist":"none",
+			"courseDescription":"Internship in the private or public sector, as approved by faculty member. Work jointly supervised by faculty member (or approved academic sponsor) and an on-site work supervisor.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 497":{
+			"crosslist":"none",
+			"courseDescription":"International seminar, led by Information School faculty or researchers. Addresses a specialized area of informatics. Topics vary. May require language proficiency.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 498":{
+			"crosslist":"none",
+			"courseDescription":"Various topics in informatics.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+		"INFO 499":{
+			"crosslist":"none",
+			"courseDescription":"Readings, design projects, or research under faculty supervision.",
+			"aok":[
+				"placeholder",
+			],
+			"prerequisites":[
+				"placeholder",
+			],
+		},
+	},
+}

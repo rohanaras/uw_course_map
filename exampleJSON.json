@@ -1,0 +1,20 @@
+{
+	"departmentName":{
+		"courseName":{
+			"crosslist":"none",
+			"courseDescription":"description",
+			"aok": [
+				"NW",
+				"IS",
+				"VLPA",
+			],
+			"prerequisites": [
+				[
+					"courseName",
+					"courseName",
+				],
+				"courseName",
+			],
+		},
+	},
+}
