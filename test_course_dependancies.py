@@ -34,9 +34,12 @@ for course in classes:
 
 	course_header = course.b.string.split(') ')
 	if len(course_header) > 1:
-		aok = course_header[1] 
-	else:
+		aok_temp = re.split(', |/', course_header[1])
 		aok = ''
+		for i in aok_temp:
+			aok = aok + '\t\t\t\t"' + i + '",\n'
+	else:
+		aok = '\n'
 	print(aok) # debug
 
 	# gets any crosslisted classes. still needs work (doesn't work when there is one)
@@ -75,6 +78,7 @@ for course in classes:
 
 	f.write('\t\t"' + course_name + '":{\n\t\t\t"crosslist":"' + crosslist + 
 		'",\n\t\t\t"courseDescription":"' + course_desc + 
-		'",\n\t\t\t"aok":[\n\t\t\t\t"placeholder",\n\t\t\t],\n\t\t\t"prerequisites":[\n\t\t\t\t"placeholder",\n\t\t\t],\n\t\t},\n')
+		'",\n\t\t\t"aok":[\n' + aok + 
+		'\t\t\t],\n\t\t\t"prerequisites":[\n\t\t\t\t"placeholder",\n\t\t\t],\n\t\t},\n')
 
 f.write('\t},\n}')
